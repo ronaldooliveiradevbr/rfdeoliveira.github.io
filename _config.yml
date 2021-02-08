@@ -1,7 +1,7 @@
 # Site
 title:              Ronaldo Oliveira
-bio:                'Eu ajudo você e sua empresa a desenvolver o mínimo de software que maximize seus resultados.'
-description:        "Eu ajudo você e sua empresa a desenvolver o mínimo de software que maximize seus resultados."
+bio:                'Eu ajudo você a maximizar seus resultados gastando o mínimo possível com software.'
+description:        'Eu ajudo você a maximizar seus resultados gastando o mínimo possível com software.'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
